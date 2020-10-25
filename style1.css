@@ -28,3 +28,23 @@ nav#change ul li a:hover {
 body {
 	background-color: grey;
 }
+
+.story {
+	width: 50%;
+	position: relative;
+	left: 300px;
+	font-family: lucida calligraphy;
+	color: blue;
+}
+h1 {
+	position: relative;
+	left: 500px;
+	font-family: lucida Calligraphy;
+	font-weight: bold;
+	color:blue;
+	font-size: 2em;
+}
+iframe {
+	position: relative;
+	left: 500px;
+}
