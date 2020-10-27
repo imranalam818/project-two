@@ -8,8 +8,8 @@ nav#change ul li {
 }
 nav#change ul li a {
 	display: block;
-	background-color: #28EBEB;
-	color: blue;
+	background-color: black;
+	color: pink;
 	text-decoration: none;
 	border-radius: 5px;
 	font-family: lucida calligraphy;
@@ -36,12 +36,12 @@ body {
 	font-family: lucida calligraphy;
 	color: pink;
 }
-h1 {
+h1 {width: 50%;
 	position: relative;
 	left: 500px;
 	font-family: lucida Calligraphy;
 	font-weight: bold;
-	color:blue;
+	color:pink;
 	font-size: 2em;
 }
 iframe {

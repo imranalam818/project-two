@@ -8,8 +8,8 @@ nav#change ul li {
 }
 nav#change ul li a {
 	display: block;
-	background-color: #28EBEB;
-	color: blue;
+	background-color: black;
+	color: pink;
 	text-decoration: none;
 	border-radius: 5px;
 	font-family: lucida calligraphy;
@@ -27,4 +27,17 @@ nav#change ul li a:hover {
 }
 body {
 	background-color: grey;
+}
+h1 {
+	position: relative;
+	left: 300px;
+	font-family: lucida calligraphy;
+	color: pink;  
+}
+.story {
+	width: 50%;
+	position: relative;
+	left: 300px;
+	font-family: lucida calligraphy;
+	color: pink;  
 }
