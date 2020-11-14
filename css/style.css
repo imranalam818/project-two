@@ -10,24 +10,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80cc0000', e
 height: 80px;
 }
 #website-name {
-	font-size: 50px;
+	font-size: 3vw;
 }
-
 .container {
 	font-family: lucida calligraphy;
 	color: #ff949B;
 	width: 85%;
 	margin: 0 auto;
+	
 }
-
-
 #main-navbar {
 	background-color: #000000;
 }
 #navbar-container {
 	width: 100%;
-	
 	text-align: center;
+	font-family: Forte ;
 }
 #main-navbar {
 	overflow: hidden;
@@ -37,9 +35,8 @@ height: 80px;
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-	vertical-align: top;
 	line-height: 25px;
-
+	vertical-align: top;
 }
 #main-navbar ul li  {
 	float: left;
@@ -55,10 +52,8 @@ height: 80px;
 	color: yellow;
 	border-radius: 10px
 }
-
 main {
 	background-color: #808080;
-	margin:  0px;
 	height: 1400px;
 }
 .Professional li  {
@@ -68,8 +63,6 @@ main {
 	left: 400px;
 	list-style-type: none;
 	text-align: right;
-
-	
 }
 .education {
 	width: 65%;
@@ -77,19 +70,15 @@ main {
 	left: 450px;
 	top: -300px;
 	text-align: right;
-
 }
 h1 {
 	margin: 0px 200px 50px 100px;
 	position: relative;
 	top: 20px;
 }
-
 .pics {
 	margin: 50px 50px 0px 50px;
-	border: 3px solid #000000;
 	width: 450px;
-
 }
 .alter {
 	text-align: center;
@@ -144,7 +133,6 @@ p {
 
 }
 #upper {
-  
   float: left;
   width: 50%;
   margin: 0 5%;
@@ -162,5 +150,7 @@ p {
   top: 180px;
 }
 
-
+img {
+	border: 2px solid black;
+}
 
